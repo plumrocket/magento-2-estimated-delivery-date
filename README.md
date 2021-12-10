@@ -18,7 +18,7 @@ Display estimated shipping time and delivery dates for your customers on differe
 * Magento backend (Order Page)
 * Pages across your store (Product Page, Category Page, Shopping Cart Page, Checkout Page)
 
-Additionally, benefit from the seamless integration with the Checkout Success Page extension and display the estimated date of delivery and shipment on the Checkout Success Page and Better Order Confirmation Email.
+Additionally, benefit from the seamless integration with the [Checkout Success Page extension](https://plumrocket.com/magento-checkout-success-page) and display the estimated date of delivery and shipment on the Checkout Success Page and Better Order Confirmation Email.
 
 <img src="https://user-images.githubusercontent.com/4431548/145548159-2483895d-5563-4901-926f-d09d4e3ec69d.png">
 
@@ -53,7 +53,7 @@ You can set the cut-off time for deliveries. For orders placed after this time, 
 
 ## All Features
 
-Please, read the [full list of features of the Estimated Delivery Date extension on our store](https://plumrocket.com/magento-estimated-delivery-date#all-features): 
+Please, check out the [full list of features of the Estimated Delivery Date extension](https://plumrocket.com/magento-estimated-delivery-date#all-features) on our store. 
 <br><br>
 
 ## Demo
@@ -88,4 +88,4 @@ https://plumrocket.com/magento-estimated-delivery-date#change-log
 Plumrocket Inc. © 2021
 <br><br>
 
-## Discover more Magento 2 Extensions on [Plumrocket Store](https://plumrocket.com/magento-extensions)
+## Discover More Magento 2 Extensions on [Plumrocket Store](https://plumrocket.com/magento-extensions)
